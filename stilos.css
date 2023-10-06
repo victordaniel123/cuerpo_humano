@@ -1,0 +1,12 @@
+.boton2 {
+    position: absolute; /* Permite posicionar el botón de forma absoluta dentro del contenedor padre (.bottom-bar) */
+    top: -150px; /* Ajusta la posición vertical del botón en relación con la parte superior del contenedor padre */
+    left: 510px; /* Ajusta la posición horizontal del botón en relación con el lado izquierdo del contenedor padre */
+    background-color: #FF5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
